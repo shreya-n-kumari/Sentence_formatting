@@ -8,5 +8,5 @@
  It will show how much time needs to read the sentence.
  There is preview of the text also.
  
-![screencapture-localhost-3000-2023-10-08-16_29_52]()
+![screencapture-localhost-3000-2023-10-08-16_29_52](https://github.com/shreya-n-kumari/Sentence_formatting/assets/68438422/d7b08285-e3ee-4817-94de-5097af79ee77)
 
