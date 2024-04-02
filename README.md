@@ -1,5 +1,6 @@
 # Sentence_formatting
-
+ live link : https://shreya-n-kumari.github.io/Sentence_formatting/
+ 
  In the text box we can add some sentences and can analyze by below methods.
  we can change to uppercase and lowercase.
  we can copy the sentence, remove space and clear the text.
